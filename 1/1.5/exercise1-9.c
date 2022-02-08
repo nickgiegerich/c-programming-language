@@ -18,6 +18,5 @@ int main()
 
         prev_c = c;
     }
-
     return 0;
 }
