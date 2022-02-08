@@ -1,8 +1,8 @@
 # The C Programming Language
 
-## Useful commands to know
+## Useful commands to know (for mac/unix like systems)
 
-- compile a program (for mac..)
+- compile a program
 
 ```
 gcc -o HelloWorld HelloWorld.c
@@ -12,5 +12,11 @@ gcc -o HelloWorld HelloWorld.c
 
 ```shell
 ./HelloWorld
+```
+
+- simulate EOF
+
+```
+Ctrl+D
 ```
 
